@@ -1,0 +1,21 @@
+{
+  "name": "node_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "4-name.js",
+  "scripts": {
+    "start": "node app6.js",
+    "dev": "nodemon app6.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "lodash": "^4.17.21",
+    "mysql": "^2.18.1",
+    "node_js": "file:"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
